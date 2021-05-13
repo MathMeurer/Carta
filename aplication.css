@@ -1,0 +1,47 @@
+body{
+    min-width: 40vw;
+    width: max-content;
+    margin: initial;
+    font-family: 'Texturina', serif;
+    line-height: 1cm;
+    background-color: black;
+    background-image: url(https://images.unsplash.com/photo-1552858725-a19e7fcd3ac4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1868&q=80);
+    background-repeat: no-repeat;
+    background-position: center;
+    color: black;
+
+      }
+      main
+      {
+          width: 100%;
+          margin-top: 2cm;
+          margin-left: 2cm;
+          background-image: url(https://th.bing.com/th/id/R04cfb9c6047d139824ac2f70b89f14ae?rik=xuksHT2cBuRLtg&riu=http%3a%2f%2fwww.hdwallpaperspulse.com%2fwp-content%2fuploads%2f2017%2f03%2f25%2ffree-3d-vintage-image.jpg&ehk=z8l8qETWDBlgUD2Yr6hM%2bJhB0bFxHhYhpsjIBH5%2fFE0%3d&risl=&pid=ImgRaw); 
+          background-repeat: no-repeat;
+          background-position: left; 
+        }
+    .autor{
+        margin-right: 0.5cm;
+        text-align: right;
+    }
+    .data{
+        text-align: right;
+        margin-right: 0.5cm;
+    }
+    .intro{
+        text-align: left;
+        margin-left: 0.5cm;
+    }
+    .despedida{
+        text-align: center;
+    }
+    a{
+         font-family: 'Texturina', serif;
+        float: right;
+        text-decoration: none;
+        margin-left: 5px;
+        padding: 15px;
+        background: rgb(160, 9, 9);
+        border-radius: 10px;
+        color: rgb(0, 0, 0);
+    }
